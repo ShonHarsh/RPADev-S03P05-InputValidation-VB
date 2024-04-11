@@ -1,0 +1,6 @@
+04/11/2024 16:00:37 => [Debug] Debug started for file: Main
+04/11/2024 16:00:37 => [Info] RPADev-S03P05-InputValidation-VB execution started
+04/11/2024 16:00:37 => [Info] RPADev-S03P05-InputValidation-VB.Main.Begin;
+04/11/2024 16:01:03 => [Info] RPADev-S03P05-InputValidation-VB.Main.Print; The string is valid. Input: FlowChartFun
+04/11/2024 16:01:03 => [Info] RPADev-S03P05-InputValidation-VB.Main.End;
+04/11/2024 16:01:03 => [Info] RPADev-S03P05-InputValidation-VB execution ended in: 00:00:25
