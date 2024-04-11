@@ -5,7 +5,7 @@
 This project is my solution in **VB** to the **Input Validation** practice found in section 03 practice 05 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
-![Valid](https://github.com/ShonHarsh/RPADev-S03P05-VB/Data/Sample Data/RPADev-S03P05-InputValidation-VB-Valid.gif)
+![Valid](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Valid.gif)
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output panel.
 
@@ -25,7 +25,7 @@ The user is allowed 3 attempts to write the correct string (not taking into acco
 
 **Note:** Please use a flowchart for this exercise.
 
-![Upper](https://github.com/ShonHarsh/RPADev-S03P05-VB/Data/Sample Data/RPADev-S03P05-InputValidation-VB-Upper.gif)
+![Upper](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Upper.gif)
 
 ### Details
 
@@ -41,9 +41,9 @@ The user is allowed 3 attempts to write the correct string (not taking into acco
 
 ### Sample Output
 ![Output](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-Output.jpg)
-![Empty](https://github.com/ShonHarsh/RPADev-S03P05-VB/Data/Sample Data/RPADev-S03P05-InputValidation-VB-Empty.gif)
-![Min](https://github.com/ShonHarsh/RPADev-S03P05-VB/Data/Sample Data/RPADev-S03P05-InputValidation-VB-Min.gif)
-![Attempts](https://github.com/ShonHarsh/RPADev-S03P05-VB/Data/Sample Data/RPADev-S03P05-InputValidation-VB-Attempts.gif)
+![Empty](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Empty.gif)
+![Min](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Min.gif)
+![Attempts](https://shonharsh.github.io/curriculum-vitae/images/Sample Data/RPADev-S03P05-InputValidation-VB-Attempts.gif)
 ```
 04/11/2024 16:00:37 => [Debug] Debug started for file: Main
 04/11/2024 16:00:37 => [Info] RPADev-S03P05-InputValidation-VB execution started
