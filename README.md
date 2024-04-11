@@ -43,7 +43,7 @@ The user is allowed 3 attempts to write the correct string (not taking into acco
 ![Output](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-Output.jpg)
 ![Empty](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Empty.gif)
 ![Min](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Min.gif)
-![Attempts](https://shonharsh.github.io/curriculum-vitae/images/Sample Data/RPADev-S03P05-InputValidation-VB-Attempts.gif)
+![Attempts](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Attempts.gif)
 ```
 04/11/2024 16:00:37 => [Debug] Debug started for file: Main
 04/11/2024 16:00:37 => [Info] RPADev-S03P05-InputValidation-VB execution started
