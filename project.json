@@ -4,11 +4,8 @@
   "description": "Validate the user's string input\r\nDevelop a workflow to ask for user text input according to a set of rules and incorporate the rules of input validation in the workflow.\r\n\r\nMore specifically, the string that the user inputs has to pass the following validation rules:\r\n\r\nMinimum length: 8 characters\r\nStarts with uppercase letter\r\nMaximum 20 characters\r\nThe user is allowed 3 attempts to write the correct string (not taking into accounts the situations when the user typed nothing).\r\n\r\nNote: Please",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.Mail.Activities": "[1.22.2]",
-    "UiPath.System.Activities": "[24.3.0]",
-    "UiPath.Testing.Activities": "[24.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
