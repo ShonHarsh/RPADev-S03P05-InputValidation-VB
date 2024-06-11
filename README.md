@@ -1,11 +1,11 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-02.png)
 
 # S03P05 Input Validation
 
 This project is my solution in **VB** to the **Input Validation** practice found in section 03 practice 05 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
-![Valid](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Valid.gif)
+![Valid](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-VB-Valid.gif)
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output panel.
 
@@ -25,7 +25,7 @@ The user is allowed 3 attempts to write the correct string (not taking into acco
 
 **Note:** Please use a flowchart for this exercise.
 
-![Upper](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Upper.gif)
+![Upper](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-VB-Upper.gif)
 
 ### Details
 
@@ -40,10 +40,10 @@ The user is allowed 3 attempts to write the correct string (not taking into acco
 **GitHub:** https://github.com/ShonHarsh/RPADev-S03P05-VB
 
 ### Sample Output
-![Output](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-Output.jpg)
-![Empty](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Empty.gif)
-![Min](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Min.gif)
-![Attempts](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-VB-Attempts.gif)
+![Output](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-Output.jpg)
+![Empty](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-VB-Empty.gif)
+![Min](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-VB-Min.gif)
+![Attempts](https://shonharsh.github.io/curriculum-vitae/Images/RPADev-S03P05-InputValidation-VB-Attempts.gif)
 
 ```sh
 04/11/2024 16:00:37 => [Debug] Debug started for file: Main
@@ -60,7 +60,7 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 1. An Orchestrator connection - Visit https://cloud.uipath.com/ and authenticate or sign up.
 2. [UiPath Studio](https://www.uipath.com/product/studio) is used to run the robot.  Note that Studio Web can be used directly in Orchestrator but I recommend installing the Studio IDE application.
 
-[![UiPath Setup Guide](https://shonharsh.github.io/curriculum-vitae/images/Title-UiPath-Setup-Guide.png)](https://github.com/ShonHarsh/UiPath-SetupGuide)
+[![UiPath Setup Guide](https://shonharsh.github.io/curriculum-vitae/Images/Title-UiPath-Setup-Guide.png)](https://github.com/ShonHarsh/UiPath-SetupGuide)
 
 ### Git Notes
 
